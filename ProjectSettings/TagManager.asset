@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bin
+  - ball
+  - bin2
+  - bin3
+  - bin4
+  - bin5
+  - bin6
+  - bin7
+  - bin8
+  - bin9
+  - bin10
+  - bin11
+  - bin12
+  - bin13
+  - bin14
+  - bin15
+  - bin16
+  - bin17
+  - bin18
+  - bin19
+  - bin20
+  - bin21
+  - bin22
+  - bin23
+  - bin24
+  - bin25
+  - bin26
+  - bin27
+  - bin28
+  - bin29
+  - bin30
+  - bin31
+  - bin32
+  - bin33
+  - bin34
+  - bin35
+  - bin36
+  - bin37
+  - bin38
+  - bin39
+  - bin40
+  - bin41
+  - bin42
+  - bin43
+  - bin44
+  - bin45
+  - secret
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
